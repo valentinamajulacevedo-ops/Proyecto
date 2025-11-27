@@ -1,0 +1,14 @@
+variable,n_missing,n_present,pct_missing,pct_present
+letra_id,341732,478603,41.66,58.34
+tamaño_id,341616,478719,41.64,58.36
+salario,341616,478719,41.64,58.36
+anionac,1188,819147,0.14,99.86
+id,0,820335,0,100
+rama_id,0,820335,0,100
+disciplina_id,0,820335,0,100
+tipo_titulo_id,0,820335,0,100
+gestion_id,0,820335,0,100
+genero_id,0,820335,0,100
+region_id,0,820335,0,100
+anio,0,820335,0,100
+anioegreso,0,820335,0,100
