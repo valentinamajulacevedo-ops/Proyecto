@@ -379,12 +379,3 @@ cat("   • Salarios extremadamente altos (> $1M): ",
     sum(salarios_validos$salario > 1000000, na.rm = TRUE), " casos\n")
 cat("   • Requiere análisis detallado en script 02\n\n")
 
-cat("PRÓXIMOS PASOS:\n")
-cat("  → Script 02: Análisis de outliers y decisiones de limpieza\n")
-cat("  → Script 03: Estadísticas descriptivas post-limpieza\n")
-cat("  → Script 04: Visualizaciones\n")
-cat("  → Script 05: Análisis inferencial\n\n")
-
-cat("==============================================================================\n")
-cat("SCRIPT 01 COMPLETADO EXITOSAMENTE\n")
-cat("==============================================================================\n")
